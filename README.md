@@ -1,7 +1,7 @@
 ## Olá sou Deivison Santos👋
 #### ºSou densenvolvedor front-end👨‍💻
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivison-santos-b7035725b/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivison06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
